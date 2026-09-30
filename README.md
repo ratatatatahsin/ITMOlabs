@@ -1,2 +1,2 @@
 # ITMOlabs
-The lab files from itmo
+The lab files for itmo
